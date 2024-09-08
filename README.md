@@ -13,11 +13,11 @@
 
 ## Links
 
-Discord - https://discord.gg/mSjG9qB53C
-YouTube - https://www.youtube.com/@mateoextra_yt
-ModBay - https://modbay.org/user/Mateo/
-MCPEDL - https://mcpedl.com/user/mateomcyt/
-Planet Minecraft - https://www.planetminecraft.com/member/enchanted_studios/
+- Discord: https://discord.gg/mSjG9qB53C
+- YouTube: https://www.youtube.com/@mateoextra_yt
+- ModBay: https://modbay.org/user/Mateo/
+- MCPEDL: https://mcpedl.com/user/mateomcyt/
+- Planet Minecraft: https://www.planetminecraft.com/member/enchanted_studios/
 ## Symbols
 
 | Rank             | Symbol                                                                |
