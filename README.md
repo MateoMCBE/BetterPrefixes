@@ -8,6 +8,6 @@
 
 ## Ranks
 ![Logo](https://i.postimg.cc/0y8Vw3sZ/IMG-2667.png)
-#### (in-game example)
+(in-game example)
 
 ## Symbols
