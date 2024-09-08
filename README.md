@@ -28,3 +28,5 @@
 | Owner |  |
 | Media |  |
 | Admin |  |
+| Manager |  |
+| Dev | d |
