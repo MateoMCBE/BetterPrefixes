@@ -11,6 +11,13 @@
 ![Logo](https://i.postimg.cc/0y8Vw3sZ/IMG-2667.png)
 (in-game example)
 
+## Links
+
+Discord - https://discord.gg/mSjG9qB53C
+YouTube - https://www.youtube.com/@mateoextra_yt
+ModBay - https://modbay.org/user/Mateo/
+MCPEDL - https://mcpedl.com/user/mateomcyt/
+Planet Minecraft - https://www.planetminecraft.com/member/enchanted_studios/
 ## Symbols
 
 | Rank             | Symbol                                                                |
