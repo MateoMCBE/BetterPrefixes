@@ -18,4 +18,4 @@
 | VIP |  |
 | VIP+ |  |
 | MVP |  |
-| MVP+ | mvp+ |
+| MVP+ |  |
