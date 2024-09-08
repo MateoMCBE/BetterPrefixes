@@ -1,0 +1,17 @@
+{
+"format_version": 2,
+"header": {
+"description": "§bBetterPrefixes Minecraft Bedrock Ranks Pack Made by§6 Mateo §f§o(check out my yt: @mateoextra_yt)",
+"name": "§fBetterPrefixes §d- §fMinecraft Bedrock Pack",
+"uuid": "2fedc3e9-a014-453f-aa0e-d33edee69957",
+"version": [0, 0, 1],
+"min_engine_version": [1, 20, 0]
+},
+"modules": [
+{
+"type": "resources",
+"uuid": "356356ff-55e5-4b92-83bb-d67bbcb80e5e",
+"version": [0, 0, 1]
+}
+]
+}
