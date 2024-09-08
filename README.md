@@ -7,6 +7,6 @@
 - Easy to use
 
 ## Ranks
-![Logo](https://i.postimg.cc/0y8Vw3sZ/IMG-2667.jpg)
+https://i.postimg.cc/0y8Vw3sZ/IMG-2667.jpg
 
 ## Symbols
