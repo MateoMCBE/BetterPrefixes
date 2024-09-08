@@ -5,6 +5,7 @@
 - Free
 - No plugins needed
 - Easy to use
+- Chat ranks not included *
 
 ## Ranks
 ![Logo](https://i.postimg.cc/0y8Vw3sZ/IMG-2667.png)
